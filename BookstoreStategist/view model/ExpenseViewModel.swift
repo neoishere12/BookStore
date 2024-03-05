@@ -2,7 +2,6 @@
 //  ExpenseViewModel.swift
 //  BookstoreStategist
 //
-//  Created by Karin Prater on 18.07.23.
 //
 
 import Foundation
