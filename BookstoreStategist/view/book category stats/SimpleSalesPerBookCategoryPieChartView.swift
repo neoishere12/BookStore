@@ -1,6 +1,6 @@
 //
 //  SimpleSalesPerBookPieChartView.swift
-//  BookstoreStategist
+//  BookstoreStategistt
 //
 //
 
